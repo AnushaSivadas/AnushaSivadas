@@ -1,4 +1,8 @@
-## Hi there 👋
+## <div align="center">Hi 👋, I'm Anusha Sivadas</div>
+### <div align="center">Transforming Ideas into Functional and Aesthetic Web Solutions</div>
+### - 🌱 I’m currently learning GoHighLevel<br>
+### - 💬 Ask me about MERN<br>
+### - 📫 How to reach me: anushasivadas37@gmail.com<br>
 
 <!--
 **AnushaSivadas/AnushaSivadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
