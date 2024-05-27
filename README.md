@@ -1,6 +1,6 @@
 ## <div align="center">Hi 👋, I'm Anusha Sivadas</div>
 ### <div align="center">Transforming Ideas into Functional and Aesthetic Web Solutions</div>
-### - 🌱 I’m currently learning GoHighLevel<br>
+### - 🌱 I’m currently learning Java<br>
 ### - 💬 Ask me about MERN<br>
 ### - 📫 How to reach me: anushasivadas37@gmail.com<br>
 
